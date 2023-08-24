@@ -1,3 +1,14 @@
+THIS IS BASIC MYSQL PROJECT 
+
+
+
+
+
+
+
+
+
+
 CREATE DATABASE PROJECT_DB; 
 use project_db;
 
